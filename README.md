@@ -1,8 +1,5 @@
 # System Programming Project
 
-**Name:** Atalay Ergenekon Karakaya
-**ID:** B201202027    
-
 This project contains two C applications:
 
 - App1 (`q1` / `app1`): Process memory analyzer  
