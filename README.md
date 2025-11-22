@@ -1,8 +1,5 @@
 # System Programming Project
 
-**Name:** Atalay Ergenekon Karakaya
-**ID:** B201202027    
-
 This project contains two C applications:
 
 - App1 (`q1` / `app1`): Process memory analyzer  
@@ -85,9 +82,10 @@ Test script:
 
 ---
 
-## 4. Short Layout
+## 4. File Structure
 
-B201202027/
+```text
+sisprog_project/
 ├── Makefile
 ├── README.md
 ├── docs/
@@ -119,3 +117,4 @@ B201202027/
         ├── vulnerable1.c
         ├── vulnerable2.c
         └── safe_example.c
+
