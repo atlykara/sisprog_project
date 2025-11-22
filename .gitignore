@@ -1,9 +1,9 @@
 # Build artifacts
 build/
-q1
-q2
-app1
-app2
+/q1
+/q2
+/app1
+/app2
 
 # Object files
 *.o
