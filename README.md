@@ -82,8 +82,9 @@ Test script:
 
 ---
 
-## 4. Short Layout
+## 4. File Structure
 
+```text
 B201202027/
 ├── Makefile
 ├── README.md
@@ -116,3 +117,4 @@ B201202027/
         ├── vulnerable1.c
         ├── vulnerable2.c
         └── safe_example.c
+
