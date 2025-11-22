@@ -85,7 +85,7 @@ Test script:
 ## 4. File Structure
 
 ```text
-B201202027/
+sisprog_project/
 ├── Makefile
 ├── README.md
 ├── docs/
